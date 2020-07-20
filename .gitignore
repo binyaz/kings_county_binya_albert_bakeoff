@@ -1,0 +1,5 @@
+kc_house_data_test_features.csv
+kc_house_data_test_target.csv
+kc_house_data_train.csv
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
